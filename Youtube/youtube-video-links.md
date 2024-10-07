@@ -5,6 +5,7 @@
 - [Installing Microsoft SQL Server Developer | Installation Series Ep1](https://www.youtube.com/watch?v=05ZivSteGJg)
 - [Installing Microsoft SQL Server Management Studio (SSMS) | Installation Series Ep2](https://www.youtube.com/watch?v=CqpURYqK_wU)
 - [Visual Studio SQL Server Data Tools Install (SSDT) | Installation Series Ep3](https://www.youtube.com/watch?v=jcWfIZIQXso)
+- [Visual Studio SQL Server Integration Services Install (SSIS) | Installation Series Ep4](https://www.youtube.com/watch?v=JMF5aBqBVYY)
 
 ## SQL Basics
 
