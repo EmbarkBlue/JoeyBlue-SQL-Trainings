@@ -1,10 +1,10 @@
 # Overview
 
-Welcome to the **JoeyBlue-SQL-Trainings** repository! This repository is your go-to resource for mastering **Microsoft BI tools** such as **SQL Server**, **SSIS**, **SSAS**, and **PowerBI**. Whether you're a beginner or a seasoned BI professional, these materials will help you expand your skills and dive deeper into the world of business intelligence and data analytics. 
+Welcome to the **JoeyBlue-SQL-Trainings** repository! This repository is your go-to resource for mastering **Microsoft BI tools** such as **SQL Server**, **SSIS**, **SSAS**, and **PowerBI**. Whether you're a beginner or a seasoned BI professional, these materials will help you expand your skills and dive deeper into the world of business intelligence and data analytics.
 
-We also provide resources for branching out into other important areas, such as **AWS Cloud Services**, **Python programming**, and various essential tools that are widely used in the **BI consulting** world. 
+We also provide resources for branching out into other important areas, such as **AWS Cloud Services**, **Python programming**, and various essential tools that are widely used in the **BI consulting** world.
 
-Unlock your potential and become a data expert with hands-on practice, video tutorials, and curated resources!
+Unlock your potential and become a data expert through hands-on practice, video tutorials, and curated resources!
 
 ## Contents
 
@@ -30,6 +30,17 @@ Unlock your potential and become a data expert with hands-on practice, video tut
 - **AWS and Cloud Tools**: Explore cloud computing through AWS services and **Azure DevOps**, key components for modern data infrastructure and deployment.
 - **Programming and Automation**: Master **Python**, one of the most versatile programming languages, along with tools like **Docker** and **Jupyter Notebooks** to automate workflows and enhance your BI projects.
 - **AI and Advanced Analytics**: Learn how to integrate **AI-powered tools** like **ChatGPT**, **GitHub Copilot**, and **DAX Studio** to boost productivity, streamline coding, and make advanced data-driven decisions.
+
+## Contact Information
+
+Feel free to connect with me through the following channels:
+
+- **LinkedIn**: https://www.linkedin.com/in/joeyblue/
+- **Twitter**: https://twitter.com/SQL_By_Joey
+- **Consulting Website**: https://www.embarkblue.com
+- **Training Website**: https://www.sqltrainingonline.com
+- **YouTube**: https://www.youtube.com/@joeyblue1
+- **Udemy**: https://www.udemy.com/user/joeyblue/
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
