@@ -18,7 +18,6 @@ This section provides a categorized list of SQL training videos available on my 
 - **Advanced Topics**: Learn about pivoting data, geospatial functions, and SQL Server system stored procedures.
 - **SQL Jobs and Career Advice**: Insights into SQL-related jobs and career development.
 - **Power BI**: Tutorials on using Power BI for data analysis.
-- **PC Setup**: Setting up SQL Server Data Tools (SSDT) for development.
 - **Database Design**: Learn about database normalization and design principles.
 
 For a detailed list of the video links, check out the [YouTube Video Links](youtube-video-links.md) file.
