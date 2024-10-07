@@ -4,6 +4,7 @@
 
 - [Installing Microsoft SQL Server Developer | Installation Series Ep1](https://www.youtube.com/watch?v=05ZivSteGJg)
 - [Installing Microsoft SQL Server Management Studio (SSMS) | Installation Series Ep2](https://www.youtube.com/watch?v=CqpURYqK_wU)
+- [Visual Studio SQL Server Data Tools Install (SSDT) | Installation Series Ep3](https://www.youtube.com/watch?v=jcWfIZIQXso)
 
 ## SQL Basics
 
@@ -167,10 +168,6 @@
 
 - [Clickbank Product Analysis from the XML Feed - #PowerBI 001](https://www.youtube.com/watch?v=cZlu53ZZtBQ)
 - [Zillow House Price Analysis from CSV Archive - #PowerBI 002](https://www.youtube.com/watch?v=hzjJXb6aICU)
-
-## PC Setup
-
-- [Visual Studio SQL Server Data Tools Install (SSDT) | PC Setup Ep2](https://www.youtube.com/watch?v=jcWfIZIQXso)
 
 ## Database Design
 
