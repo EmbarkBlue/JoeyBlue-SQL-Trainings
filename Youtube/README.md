@@ -5,7 +5,7 @@ This section provides a categorized list of SQL training videos available on my 
 ## Categories
 
 - **Installation Series**: Guides on installing SQL Server and management tools.
-- **SQL Basics**: Introduction to SQL, including foundational concepts and basic queries.
+- **SQL Basics**: Introduction to SQL, Introduction to SQL Server Management Studio (SSMS), Introduction to SQL Server Integration Services (SSIS).
 - **Data Import/Export**: Methods for importing and exporting data between Excel, SQL Server, and Azure.
 - **SQL Functions and Clauses**: Deep dive into SQL clauses, aggregate functions, string manipulation, date functions, and more.
 - **Joins**: Learn about different types of joins and how to troubleshoot them.

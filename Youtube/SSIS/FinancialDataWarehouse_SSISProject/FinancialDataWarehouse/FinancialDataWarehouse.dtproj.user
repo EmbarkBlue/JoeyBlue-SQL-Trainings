@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <AssessmentRuleSuppressionSetting />
+        <UseWinAuth>false</UseWinAuth>
+        <WinAuthUserName />
+        <WinAuthDomain />
+        <ServerName>localhost</ServerName>
+        <PathOnServer>/SSISDB/FinancialDataWarehouse/FinancialDataWarehouse</PathOnServer>
+        <UserIDs />
+        <UserPasswords />
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2024-10-17T19:12:06.5366571Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
